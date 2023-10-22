@@ -24,3 +24,7 @@ pipeline {
                 echo 'deploy action done'
             }
         }
+
+    }
+}
+
